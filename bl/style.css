@@ -1,0 +1,23 @@
+html{
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: rgb(101, 101, 243);
+}
+
+body{
+    width: 600px;
+    background-color: goldenrod;
+    border: 5px solid gray;
+    padding: 0 20px 20px 20px;
+    margin: 0 auto;
+    margin-top: 12%;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(101, 101, 243);
+    text-shadow: 3px 3px 3px  black;
+}
+img{
+    margin: 0 auto;
+}
